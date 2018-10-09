@@ -9,7 +9,7 @@ I've briefly touched *[Vivado](../vivado)*, and from what I've done, I want to d
 ### LabView
 Once you get past the fact *[LabView](../labview)* is completely different than most programs, you appreciate what it's capable of.
 
-## C#
+### C#
 I once completed a WPF project to test Sleep Number remotes. That project is linked *[here](../c-sharp)*.
 
 ### Languages for Software Engineers
